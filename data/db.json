@@ -21,7 +21,9 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://i.pinimg.com/736x/ec/a9/8b/eca98b8528bbdc2486e5935e8a9908be.jpg",
+      "DCComics": null
     },
     {
       "id": "dc-flash",
