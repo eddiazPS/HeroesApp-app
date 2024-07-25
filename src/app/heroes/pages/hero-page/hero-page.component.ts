@@ -34,4 +34,10 @@ public hero? : Hero;
   })
   }
 
+  goBack():void{
+    this.router.navigateByUrl('heroes/list');
+  }
+
+
+
 }
